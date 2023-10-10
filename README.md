@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div style="display:flex; flex-direction:row;">
-    <a href="https://velog.io/@coding_cat" target="_blank">
+    <a href="https://velog.io/@coding_cat">
         <img src="https://img.shields.io/badge/
         velog-20C997?style=flat&logo=V&logoColor=white"/>
     </a>
