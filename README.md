@@ -1,7 +1,8 @@
 ### Hi there 👋
-    <a href="https://velog.io/@coding_cat">
+<div style="display:flex; flex-direction:row;">
+    <a href="mailto:kwonbe99@gmail.com">
         <img src="https://img.shields.io/badge/
-        velog-20C997?style=flat&logo=Velog&logoColor=white&link=https://velog.io/@coding_cat"/>
+        Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
 
 
