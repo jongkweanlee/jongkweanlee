@@ -3,5 +3,5 @@
         <img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=v&logoColor=white">
     </a>
 
-##### Hi there 👋
+### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongkweanlee&show_icons=true&theme=aura_dark)
