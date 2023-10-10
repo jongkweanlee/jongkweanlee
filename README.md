@@ -2,7 +2,7 @@
 <div style="display:flex; flex-direction:row;">
     <a href="https://velog.io/@coding_cat" target="_blank">
         <img src="https://img.shields.io/badge/
-        Velog-20C997?style=flat&logo=Velog&logoColor=white"/>
+        velog-20C997?style=flat&logo=V&logoColor=white"/>
     </a>
 
 
