@@ -1,8 +1,8 @@
 <div style="display:flex; flex-direction:row;">
     <a href="https://velog.io/@coding_cat">
-        <img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=v&logoColor=white">
+        <img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=v&logoColor=white">
     <a href="jongkweanlee@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-EA4335?style=flat&logo=jongkweanlee@gmail.com&logoColor=white">
+        <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=jongkweanlee@gmail.com&logoColor=white">
     </a>
 
 
