@@ -3,7 +3,7 @@
         <img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=v&logoColor=white">
     </a>
     <a href="mailto:jongkweanlee@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badg&logo=jongkweanlee@gmail.com&logoColor=white">
+        <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=jongkweanlee@gmail.com&logoColor=white">
     </a>
 
 
