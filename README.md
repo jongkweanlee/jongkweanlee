@@ -1,5 +1,5 @@
 <div style="display:flex; flex-direction:row;">
-    <a href="https://velog.io/@coding_">
+    <a href="https://velog.io/@Coding Cat">
         <img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white">
     </a>
     <a href="mailto:jongkweanlee@gmail.com">
